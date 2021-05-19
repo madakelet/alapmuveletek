@@ -56,5 +56,10 @@ namespace kozos_feladat
         {
 
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
